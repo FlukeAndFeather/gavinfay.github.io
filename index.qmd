@@ -55,3 +55,6 @@ Hi, I'm Max! I teach marine data science at UCSB in the Bren School and the Coll
 
 Hello, I'm Cooper! I'm a marine science undergraduate researching cetacean vocalizations. In my free I enjoy reading, hiking, and scuba diving.
 
+## Ciara Gray
+
+I am a CCS Marine Science student in the last quarter of my bachelor's degree. I am interested in marine ecology and behavioral ecology. I am also a scientific SCUBA diver for UCSB.
